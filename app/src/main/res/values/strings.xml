@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MagicMushroomTheGathering</string>
+    <string name="FAB_AddMarker">Add map marker</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="log_out">Logout</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="usersettings">userSettings</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_main_navigation">mainNavigation</string>
+    <string name="title_map">Map</string>
+    <string name="usermarkers">userMarkers</string>
+</resources>

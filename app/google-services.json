@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014190892193",
+    "project_id": "app3-project-tavs",
+    "storage_bucket": "app3-project-tavs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014190892193:android:775074469ae4b3b7d07ce0",
+        "android_client_info": {
+          "package_name": "com.example.magicmushroomthegathering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zKChxTNQqjmfLGMiUcpMTzlH7oSPaZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
